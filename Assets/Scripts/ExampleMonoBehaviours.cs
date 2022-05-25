@@ -1,5 +1,6 @@
 using UnityEngine;
 
+// We create some example monobehaviours to showcase the generic method
 public class ExampleMonoBehaviour1 : MonoBehaviour
 {
     private void Awake()
